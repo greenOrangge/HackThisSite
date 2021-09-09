@@ -5,4 +5,4 @@
 - we can see that the password we submit goes to a form, whose location is given in the source code
 - please use w3schools HTML to get a clear picture of what all the attributes mean.
 
-![answer](HackThisSite/basic_missions/lvl_3/ans.png)
+![answer](basic_missions/lvl_3/ans.png) 
